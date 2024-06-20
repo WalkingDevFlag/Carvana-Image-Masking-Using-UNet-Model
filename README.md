@@ -9,16 +9,17 @@ This repository contains a PyTorch implementation of a UNet model for image mask
 
 ## Components
 `UNet Model:`
-
 The UNet model is a deep learning architecture designed for image segmentation tasks. It consists of a series of convolutional and pooling layers followed by upsampling and convolutional layers.
 
 `Carvana Dataset:`
-
 The Carvana dataset is used to train and validate the model. It consists of images and their corresponding masks.
+
 `Training:`
 The model is trained using the AdamW optimizer and the binary cross-entropy loss function.
+
 `Testing:`
 The trained model is used to predict the mask for a given image.
+
 ## Usage
 
 Training: Run the training script to train the model on the Carvana dataset.
