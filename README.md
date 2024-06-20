@@ -6,6 +6,7 @@ This repository contains a PyTorch implementation of a UNet model for image mask
 - The Carvana dataset consists of images of cars with their respective masks.
 - The goal is to develop a model that can predict the mask for a given image.
 - This repository provides a PyTorch implementation of a UNet model that achieves this goal.
+- [Pretrained Model] -> https://drive.google.com/file/d/14gUT8v6oI5YL1HKBeVEFv3NPt0AogMvp/view?usp=sharing
 
 ## Dataset
 The Carvana dataset used in this project is available at Carvana Image Masking (PNG).
